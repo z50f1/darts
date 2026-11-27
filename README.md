@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite + Kandó
 
 Update: Kandós favicon és specifikus ikonok, bootstrap-re és bootstrap-icons-ra felkészítve a main.jsx és a package.json-ben is!
@@ -21,3 +22,6 @@ A React fordító nincs engedélyezve ezen a sablonon a fejlesztési és build t
 Ha éles alkalmazást fejlesztesz, azt javasoljuk, hogy TypeScriptet használj engedélyezett típustudatos lint szabályokkal. A [TS sablonban](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) találsz információkat arról, hogyan integrálhatod a TypeScriptet és a [`typescript-eslint`](https://typescript-eslint.io) a projektedbe.
 
 - Hivatalos Kandó - sablon 2025-26
+=======
+# darts
+>>>>>>> bf1706199aeb1fbb3d60f117c60fc20f261c53e8
