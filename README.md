@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite + Kandó
 
 Update: Kandós favicon és specifikus ikonok, bootstrap-re és bootstrap-icons-ra felkészítve a main.jsx és a package.json-ben is!
